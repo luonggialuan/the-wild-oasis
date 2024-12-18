@@ -2,4 +2,4 @@
 
 “The Wild Oasis” is a small boutique hotel.
 
-- Technology used: Reactjs, styled component, react query, react router dom, react hook form, and more.
+- Technology used: supabase, reactjs, styled component, react query, react router dom, react hook form, and more.
